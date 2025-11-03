@@ -1,0 +1,5 @@
+/sample.ipynb
+*.zip
+.env
+.venv
+.idea
